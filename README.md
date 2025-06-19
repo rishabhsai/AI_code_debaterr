@@ -2,6 +2,12 @@
 
 An interactive code generation system where two AI models debate and refine code through multiple rounds of discussion until they reach agreement on the optimal solution.
 
+## 🚀 Try it Now!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xxMJ4Y9Tax8phjp7kC_vQyrCmsrLEEzw?usp=sharing)
+
+---
+
 ## 🎯 Overview
 
 AI Code Debate creates a collaborative environment where:
